@@ -1,0 +1,502 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of particular predestination vvherein ar[e] answered three letters. 1. Tending to disprove particular predestination. 2. To shew the contradiction betwixt Christ dying for all, and Gods election of some. 3. To prove that the soule doth not come from the parent, and consequently that there is no originall sinne. By Thomas Lamb.</title>
+            <author>Lamb, Thomas, d. 1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48461</idno>
+            <idno type="STC">Wing L212A</idno>
+            <idno type="STC">ESTC R216650</idno>
+            <idno type="EEBO-CITATION">99828375</idno>
+            <idno type="PROQUEST">99828375</idno>
+            <idno type="VID">32802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1953:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of particular predestination vvherein ar[e] answered three letters. 1. Tending to disprove particular predestination. 2. To shew the contradiction betwixt Christ dying for all, and Gods election of some. 3. To prove that the soule doth not come from the parent, and consequently that there is no originall sinne. By Thomas Lamb.</title>
+                  <author>Lamb, Thomas, d. 1686.</author>
+               </titleStmt>
+               <extent>[6], 2, [12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "1. Tending .. sinne." are bracketed together on title page.</note>
+                  <note>The "e" in "are" has failed to print on title page.</note>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Predestination --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32802:1"/>
+            <pb facs="tcp:32802:1" rendition="simple:additions"/>
+            <p>A TREATISE OF PARTICVLAR PREDESTINATION; VVherein ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> anſwered three Letters.</p>
+            <list>
+               <item>1. Tending to diſprove particular <hi>Predestina<g ref="char:EOLhyphen"/>tion.</hi>
+               </item>
+               <item>2. To ſhew the contradiction betwixt Chriſt dy<g ref="char:EOLhyphen"/>ing for all, and Gods Election of ſome.</item>
+               <item>3. To prove that the ſoule doth not come from the parent, and conſequently that there is no Originall ſinne.</item>
+            </list>
+            <p>By THOMAS LAMB.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32802:2"/>
+            <pb facs="tcp:32802:2"/>
+            <head>To the unpartiall Reader, Grace, and Peace.</head>
+            <opener>
+               <salute>Courteous Reader.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or as much as the glory of God ought to bee moſt deare in our eyes, which wee ought to ſeeke, and preferre more then our lives; I could not with good conſcience and reaſon, but publiſh theſe few lines following, (eſpecially being earneſtly deſired by ſome of my deare friends,) and the reaſons are,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> firſt, becauſe the truth of the <hi>Goſpell,</hi> which holds forth Chriſts giving himſelfe a ranſome for all men, <hi>1. Tim. 2.6.</hi> A propitiation for the ſinnes of the whole world, <hi>1 Iohn 2.2.</hi> and that he taſted death for every man <hi>Heb. 2.9.</hi> (which is ſuch a glorious truth, as without which first the Goſpell of Gods free grace cannot bee preached to all men, ſecondly neither can wick<g ref="char:EOLhyphen"/>ed men nor unbelievers be required to believe; and thirdly neither can the not beleeving in Chriſt be concluded to be a ſinne,) all which being pro<g ref="char:EOLhyphen"/>feſſed by the people of God (who deſire in all ſin<g ref="char:EOLhyphen"/>cerity
+<pb facs="tcp:32802:3"/>
+to walke in all the wayes of God, and to bee led wholy by the rule of his word, what ever the hazard be thereby) they are thereby ſcandalized to hold free-will, and to denie particular election of perſons, and perſons hereby kept from the truth: to the end therefore that theſe ſtumbling blockes might be taken out of the way: theſe fol<g ref="char:EOLhyphen"/>lowing lines doe manifeſtly declare Chriſts dy<g ref="char:EOLhyphen"/>ing for all, and particular Election to ſtand to<g ref="char:EOLhyphen"/>gether, which therefore can be no let to hinder people from the wayes of God, nor yet from diſ<g ref="char:EOLhyphen"/>cerning this particular truth of Chriſts dying for all, the excellency whereof none can prize, but thoſe that know it; the which excellency if others could know, I am confident they would not bee ſuch enemies to their owne ſoules as to ſlight it. <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label>
+               <hi>2.</hi> Becauſe thoſe that do deny particular election doe preſſe upon us, as if we were behind hand to defend our ſelves, and our principles againſt them, wheras it is manifeſt (and they know it to be true) that they have had theſe three Letters in way of anſwer to their Letters, and have made no reply, and therefore to the end that it might ap<g ref="char:EOLhyphen"/>peare, that we doe not comply with them, ſecondly that we are not behind hand to defend our ſelves againſt them, and thirdly that we might provoke
+<pb facs="tcp:32802:3"/>
+them to reply, and to manifeſt their reaſons to publicke view, if they have any for the defence of themſelves in anſwer to what I have written to them, which I conceive they cannot doe, I have therefore adventured to put forth the ſame to prove whether they can or not, and laſtly con<g ref="char:EOLhyphen"/>ceiving that ſome may be ſtaggering, and not ſo well eſtabliſhed as were to be wiſhed, and con<g ref="char:EOLhyphen"/>ceiving that theſe may be ſome ſtay to them, and meanes to give them further light then yet they have, (which if they lie in obſcurity would doe no ſuch good) for whoſe ſakes in ſpeciall, J doe endeavour that they ſhould bave this for preſent, till further occaſions bring forth further labours; accept therefore I intreat you in love this ſmall endeavour read it over with earnest intention, meditate of it, and trie it by the Scriptures with pious devotion; and if any good light and divine knowledge comes to thee by it, I ſhall have my deſire, give God the glory of it, let me have the benefit of thy faithfull, and fervent prayers, and I ſhall ever rest.</p>
+            <closer>
+               <signed>Thine in any ſervice of love to my power. THOMAS LAMBE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32802:4"/>
+            <pb n="1" facs="tcp:32802:4"/>
+            <head>AN ANSVVER <hi>TO</hi> A ſhort writing, for the diſproving of particular <hi>Predestination,</hi> made by <hi>T. S.</hi> in which anſwer, particular <hi>Predeſtination</hi> is cleared and proved by <hi>T. L.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſaid that God hath predeſtinated, that thoſe that will beleeve in Chriſt ſhall bee ſaved, and thoſe that will not ſhall be damned.</p>
+            <p>To which I anſwer, that this is to ſhort a deſcription of <hi>Predeſtination,</hi> becauſe <hi>Predeſti<g ref="char:EOLhyphen"/>nation</hi> is not a conditionall but an abſolute De<g ref="char:EOLhyphen"/>cree, as the Scripture holds it forth, <hi>Rom.</hi> 8.30. In which place two things are to be noted, and the firſt is the definition of the Subjects of predeſtination, and they are onely thoſe which are in time called, juſtified, and glorified, and the ſecond is the order of the cauſes where we are to note, that glorifica<g ref="char:EOLhyphen"/>tion is not the cauſe of our Juſtification; but Iuſtification is the cauſe of glorification; ſo likewiſe Juſtification is not the cauſe of vocation, but vocation is the cauſe of Iuſtification; ſo like<g ref="char:EOLhyphen"/>wiſe vocation is not the cauſe of <hi>Predeſtination,</hi> but <hi>Predeſtina<g ref="char:EOLhyphen"/>tion</hi> is the cauſe of <hi>Vacation;</hi> and there is no cauſe of <hi>Predeſti<g ref="char:EOLhyphen"/>nation,</hi>
+               <pb n="2" facs="tcp:32802:5"/>
+but the meere will of God; and therefore <hi>Predeſtinati<g ref="char:EOLhyphen"/>on</hi> is abſolute not conditionall; promiſes and threatnings may be found conditionall, but a conditionall decree the Scripture maintaineth not.</p>
+            <p>And where it is further ſaid that many doe affirme, that God hath decreed ſome to doe wickedly, and ſo to fall under condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>I anſwer, that God hath decreed to permit ſome to doe wick<g ref="char:EOLhyphen"/>edly, and to refuſe <hi>grace,</hi> and accordingly to pun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh them; and to prevent others and to create them in <hi>Chriſt Ieſus,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 2.10.</note> unto good workes; and accordingly to ſave them; and to this accords, <hi>Rom.</hi> 9.22.23. what and if God will to declare his wrath, and make his power knowne, ſuffer with long patience the veſſels of wrath prepared or fitted to deſtruction; that hee might de<g ref="char:EOLhyphen"/>clare the riches of his mercy upon the veſſels of mercy, which he hath prepared unto Glory; and they have not prepared themſelves thereunto.</p>
+            <p>Now to diſprove this kind of <hi>Predestination,</hi> ſomething is ſaid concerning <hi>Adam,</hi> how that he was created after the Image of God in the faculties of his ſoule; and diſpoſition of his bo<g ref="char:EOLhyphen"/>dy; and ſet by God in the Garden of <hi>Eden,</hi> who gave him a <hi>Law</hi> concerning the Tree of Knowledge of Good, and Evill, decreeing that if he did obey he ſhould live; but if hee did eat he ſhould die; and that although God foreſaw that <hi>Adam</hi> would break his <hi>Law,</hi> yet it will not follow that God decreed he ſhould break it;</p>
+            <p>To which I anſwer that it doth follow that God decreed hee ſhould break it elſe he would not have ſuffered him to break it; having power to hinder him, if it were his will (hee could eaſily doe it) but he will not: therefore it is his will to permit <hi>Adam</hi> to break his <hi>Law.</hi>
+            </p>
+            <p>And where it is ſaid that if it were ſo, then <hi>Adam</hi> had no meanes to reſiſt ſinne.</p>
+            <p>
+               <hi>(I anſwer)</hi> I deny the conſequence, for it doth no more fol<g ref="char:EOLhyphen"/>low, that Gods Decree that <hi>Adam</hi> would, or ſhould certainly fall by his permiſſion, doth take from <hi>Adam</hi> power of reſiſtance of ſinne, then Gods infallible foreſight th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Adam</hi> would fall doth; the later you grant and prove, <hi>Acts</hi> 15.18. therefore the former ſtands upon the ſame ground.</p>
+            <p>
+               <pb facs="tcp:32802:5"/>And whereas it is ſaid, that if <hi>Adam</hi> had reſiſted the Temp<g ref="char:EOLhyphen"/>ter and ſtood he had croſſed the decree of God, which is impoſſi<g ref="char:EOLhyphen"/>ble, becauſe Gods Decree is unalterable.</p>
+            <p>
+               <hi>I anſwere,</hi> and affirme the like of his preſcience or foreknow<g ref="char:EOLhyphen"/>ledge, which is as infallible as his decree, for if <hi>Adam</hi> had reſi<g ref="char:EOLhyphen"/>ſted the tempter and had ſtood; God had beene deceived in his foreſight concerning his fall; and this Argument is as much as if the skie fall wee ſhall have Larkes: but it doth not fall, and therefore they be not eaſily had.</p>
+            <p>And where it is further ſaid that if it ſhould bee grant<g ref="char:EOLunhyphen"/>ed, that God decreed that <hi>Adam</hi> ſhould eat and die, and yet commanded him that hee ſhould not eat, to the end that hee might live, this were to make the Lord contrary to himſelfe.</p>
+            <p>I anſwer denying the conſequence, for theſe things are not contrary, namely for God to command <hi>Adam</hi> not to eat; as hav<g ref="char:EOLhyphen"/>ing Authority ſo to doe, to the end hee might trie his willing obedience, and in caſe he fell to diſcover the hainouſneſſe of his ſinne and diſobedience, and God foreſeeing hee would fall to permit him ſo to doe is no contradiction at all, but a pure truth; for if men were elected in <hi>Chriſt</hi> before the foundation of the world, then was the fall preſuppoſed, and that they were ſo <hi>Paul</hi> affirmeth it, <hi>Epheſ.</hi> 1.3.4. and therefore in this point there is no danger at all.</p>
+            <p>And where it is further ſaid, if there were no ſuch decree concerning <hi>Adam,</hi> then not concerning his poſterity neither.</p>
+            <p>To which I anſwer, that there is ſuch a Decree concerning <hi>Adam,</hi> to permit him to doe the evill which was forbidden; <hi>Ergo</hi> there is ſuch a Decree concerning his poſterity. Alſo to permit them to doe thoſe things which they doe that are for<g ref="char:EOLhyphen"/>bidden.</p>
+            <p>And whereas it is further ſaid, that if any ſtill will hold, that God decreed any mans condemnation, then it is for tranſgreſ<g ref="char:EOLhyphen"/>ſion of the <hi>Law,</hi> which no man could doe before he was cre<g ref="char:EOLhyphen"/>ated</p>
+            <p>I anſwer, that although no man could tranſgreſſe the <hi>Law</hi> be<g ref="char:EOLhyphen"/>for hee was created, yet God could foreſee that man would tranſgreſſe a <hi>Law</hi> before man was created: and decreed to ſuf<g ref="char:EOLhyphen"/>fer him ſo to doe, and decreed to puniſh him accordingly.</p>
+            <p>And wherereas it is further demanded, whether God de<g ref="char:EOLhyphen"/>creed
+<pb facs="tcp:32802:6"/>
+the condemnation of <hi>Adams</hi> perſon, and ſuppoſed the anſwer will be no: becauſe God decreed to ſend his ſonne, to redeeme him from Death, and if him why not all his Poſterity: ſeeing it is written, <hi>Ioh.</hi> 3.16. <hi>That God ſo loved the World, that he gave his onely begotten Sonne, that whoſoever beleeved in him, ſhould not periſh but have Everlaſting Life.</hi>
+            </p>
+            <p>To which I anſwer, that it doth not follow from hence, that <hi>God</hi> hath decreed to doe for all alike, in cauſing of them to be<g ref="char:EOLhyphen"/>leeve:<note place="margin">Ezek. 3.6.7. Mat. 11.21</note> for though it may be concluded, that <hi>God</hi> gave Chriſt and Chriſt gave himſelfe for all alike: yet he doth not give the Doctrine of the ſame to all alike,<note place="margin">Epheſ. 2.8. Phil. 1.28.</note> much leſſe doth he give <hi>Faith,</hi> which is the effect of the ſame Doctrine to all alike: and there<g ref="char:EOLhyphen"/>fore is ſaid to be the gift of <hi>God,</hi> not in common, as the Preach<g ref="char:EOLhyphen"/>ing is, but in ſpeciall and peculiar as the Election is. <hi>Rom.</hi> 11.7. and therefore true Faith is called the Faith of Gods elect: <hi>Tit.</hi> 1.1. given onely to ſome and not to others, <hi>Mat.</hi> 13.11. as be<g ref="char:EOLhyphen"/>ing thoſe that are <hi>Predeſtinated,</hi> and therefore effectually called, juſtified and glorified. <hi>Rom.</hi> 8.30. but others he ſuffers to walke in their owne wayes. <hi>Act.</hi> 14.16. as the Veſſels of wrath fitted to deſtruction <hi>Rom.</hi> 9.22. And the Reprobates and wicked of the World, could not do ſuch wickedneſſe as they doe, but that it pleaſeth God to ſuffer ſuch diſhonourable wayes and practiſes to be for a time, as knowing how to bring forth his owne glory in their juſt deſerved damnation: But he doth not ſuffer his E<g ref="char:EOLhyphen"/>lect to walke in their owne wayes: but doth prevent them that they eſcape Eternall Damnation, 1 <hi>Cor.</hi> 11.32. That he might glorifie himſelfe in them in his mercy, as upon the Veſſels of mercy, which he hath prepared unto glory,</p>
+            <p>Whereas you conclude with this requeſt, that your poſitions againſt particular Election, may be either receiv'd or anſwered, I now conclude with the like, (having as I ſuppoſe ſufficiently anſwered this:) that you would either ſhew, wherein the in<g ref="char:EOLhyphen"/>ſufficiency of my anſwer lies, or yeeld thereunto.</p>
+            <div type="part">
+               <head>An Anſwer to a Letter written by <hi>R. H.</hi> ſending to ſhew the contradiction that is betwixt Chriſts dying for all, and Gods Election of ſome.</head>
+               <head type="sub">The which Anſwer ſheweth, that there is no contradiction be<g ref="char:EOLhyphen"/>twixt
+<pb facs="tcp:32802:6" rendition="simple:additions"/>
+theſe two, but a ſweet concord; by T. L.</head>
+               <p>Firſt you ſay you write to ſhew the contradiction that is be<g ref="char:EOLhyphen"/>twixt univerſall redemption and particular election, and how doe you doe this; you aske the queſtion how Chriſt died for all men, ſeeing he never intended ſalvation to them.</p>
+               <p>To this I anſwer, that Chriſt may be ſaid to have died for all men, although he never intended to make all men to believe in his death for ſalvation; you ſay if God hath onely elected ſome perſons, and rejected all the reſt, then there is no way of reco<g ref="char:EOLhyphen"/>very made for them that are rejected;</p>
+               <p>But Chriſt hath made a way of recovery out of the loſt eſtate, for all thoſe for whom be died. <hi>Ergo.</hi>
+               </p>
+               <p>To this I anſwer, that <hi>Chriſt</hi> hath made, or purchaſed away of recovery for all men, if they doe not reject him and it alſo; but election is a fore-apointment that ſuch perſons are elected, ſhall believe and be recovered, and if the reſt doe not it is their owne fault, becauſe they beleeve not the truth which preach<g ref="char:EOLhyphen"/>ed, <hi>Rom.</hi> 11.5.7. <hi>Iohn</hi> 16.9. <hi>Mar.</hi> 3.5. You ſay generall redemption extends it ſelfe to all; particular <hi>Election</hi> it oppoſeth it; and ſaith no not to all but to ſome onely.</p>
+               <p>This I deny and ſay, <hi>Election</hi> doth effect that ſome doe be<g ref="char:EOLhyphen"/>lieve, but it doth not oppoſe any in point of beleeving: and ſo it doth not follow that although man doe not effect in himſelfe in himſelfe faith, and cauſe himſelfe to be elected (as is imagined) that he is not the cauſe of his owne deſtruction by the refuſall of <hi>grace</hi> offered, and I put the caſe that none were elected at all: would it then come to paſſe that generall redemption which ex<g ref="char:EOLhyphen"/>tends it ſelfe to all would ſave all; (becauſe you ſay particular <hi>Election</hi> intends onely the ſalvation of ſome) if not then would I aſke the reaſon why? if you ſay becauſe all doe not believe, then you ſay true, and what if none believe, then none ſhould be ſaved: whereby you may ſee that although generall <hi>Redemption</hi> extends it ſelfe to all, to all, yet nevertheleſſe if none beleeve, none ſhould be ſaved; and that none would beleeve unleſſe they were elected, appeares in that none would beleeve unleſſe God worke it, ſuch evill is in mans nature, as doth continually op<g ref="char:EOLhyphen"/>poſe the Doctrine of <hi>grace,</hi> untill they bee overcome thereby, which <hi>Doctrine</hi> for God to afford to men effectually proporti<g ref="char:EOLhyphen"/>onable to the meaſure of corruption, even to the taking of it
+<pb facs="tcp:32802:7" rendition="simple:additions"/>
+away in ſome and not in others, by the extent of his providence, proceeds onely from the good pleaſure of his will differently as the ſame is extended by his continuall government of the world; ſo then it doth appeare that <hi>Election</hi> is a thing ſuper-added over and above, beſides the meanes of <hi>Redemption</hi> to cauſe ſome to beleeve, which otherwayes would effect the ſame.</p>
+               <p>You ſay they contradict one another in their ends, which they cannot doe, if they be truths both as for example: you ſay the end of generall <hi>Redemption</hi> is the ſalvation of all, and the avoiding of reſpect of perſons; but the end of particular <hi>Ele<g ref="char:EOLhyphen"/>ction</hi> is this and but this: (namely) to ſave this perſon and con<g ref="char:EOLhyphen"/>demne that, and becauſe he will doe it he will doe it; and can give no Reaſon, nor ſhew any cauſe why to cleare his Juſtice or vindicate his Mercy;</p>
+               <p>To which I anſwer, that the will of God is reaſon enough for the diſpoſing of his gifts of Grace, to whomſoever he pleaſeth, both for the clearing of his Juſtice, and vindicating of his Mercy.</p>
+               <p>Secondly, I ſay to command and provide me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes for all, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ending to the ſalvation of all: and yet to decree the ſalvation onely of ſome is no contradiction at a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l: but onely a wiſe diſ<g ref="char:EOLhyphen"/>poſall of the matter; ſo as not to bee wholy fruſtrate of his Commands and meanes; which otherwiſe would come to paſſe, if he ſhould leave to mankind the whole diſpoſall of the buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Thirdly I anſwer, concerning reſpect of perſons, wee are to marke and mind what it is, and in it wee are to conſider two things: firſt that it is alwayes ſomething in the perſon, for which he is reſpected, and ſecondly that the thing is unſuffici<g ref="char:EOLhyphen"/>ent why he ſhould be ſo reſpected, but o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herwiſe to give un<g ref="char:EOLhyphen"/>like Gifts to perſons that are alike is no reſpect of Perſons: or if it be then God is ſuch a reſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cter of perſons as may be prov<g ref="char:EOLhyphen"/>ed plenteouſly, for the people of the <hi>Iewes</hi> were as bad as o<g ref="char:EOLhyphen"/>ther Nations, and yet God gave them more and greater Gifts then he did to other Nations, <hi>Ezek.</hi> 16.47, 48. <hi>Deut.</hi> 7.7. <hi>Act.</hi> 7.39 40. And likewiſe <hi>Manaſſeh</hi> who did more evill then the Heathen whom the Lord had deſtroyed, 2 <hi>Kings</hi> 21.9. 2 <hi>Chron.</hi> 33.9.10. Neither were the 42. Children worſe then
+<pb facs="tcp:32802:7"/>
+                  <hi>Manaſſeh,</hi> and the <hi>Iewes</hi> living in his time which notwithſtan<g ref="char:EOLhyphen"/>ding periſhed, and the other were ſpared as is to be ſcene 2 <hi>Kings</hi> 2.24. and God gave them no time to repent of their ſinnes, as he did to <hi>Manaſſeh,</hi> and the people who notwithſtanding when the Lord ſpake unto them would not regard. And <hi>Paul</hi> likewiſe exceeded many other in wickedneſſe, or at leaſt was as bad, and many of them which yet had no miraculous appariti<g ref="char:EOLhyphen"/>on of Chriſt, to effect their converſion, Faith and Grace as <hi>Paul</hi> had: therefore the dealing of God in communicating of Gifts doe differ, though the perſons doe not differ, but be one as bad as the other, yea many, thoſe which have the moſt and greateſt gifts beſtowed upon them are the worſt; and therefore in Ele<g ref="char:EOLhyphen"/>ction if there be any difference God chuſeth the worſt both of perſons and things, 1 <hi>Cor.</hi> 1.26, 27, 28. the end is that he might avoyd reſpect of any thing, in the perſons or things which hee chuſeth, either preſent or foreſeene, <hi>ver.</hi> 29. for what any perſon or thing is in goodneſſe, hee or it is,<note place="margin">Ephe. 2.19 Iam. 1.17</note> that he or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is by the worke of God, <hi>verſ.</hi> 30. the end is that hee might have the whole praiſe, <hi>verſ.</hi> 31.</p>
+               <p>Fourthly I ſay if God leave the matter wholy to man in gene<g ref="char:EOLhyphen"/>rall Redemption, as that hee doth Elect Perſons no otherwiſe then in Relation to qualities: then he hath reſpect to perſons, and the reaſon is, becauſe hee hath reſpect to ſomething in the perſon, for which he doth reſpect him: and yet the thing is in<g ref="char:EOLhyphen"/>ſufficient why he ſhould be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o reſpected, for according to that poſition more ſhould have been choſen, but with reſpect to what they doe, which others doe not, now it remaines to be examined whether that which ſome do of themſelves by their owne pow<g ref="char:EOLhyphen"/>er, puts a worth and excellency upon their Perſons, to cauſe God to chuſe them above others: if not then I demand why and up<g ref="char:EOLhyphen"/>on what reaſon God ſhould chuſe them above others; and a<g ref="char:EOLhyphen"/>gaine, if that which ſome doe of themſelves, and by their owne power put a worth and excellency upon their Perſons, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God to chuſe them above others; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Paul</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rreth in ſaving that Election is or favour or Grace, <hi>Rom.</hi> 11.5 6. Now I conceive it will not be ſaid there is a worth or excellency upon the perſon of any man, by what he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth by his owne power, in point of beleeving Sanctification, obedience, and perſeverance to cauſe God to chuſe him; and if not, then is God a reſpect<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r
+<pb facs="tcp:32802:8" rendition="simple:additions"/>
+of Perſons, and not juſt but partiall; becauſe hee doth reſpect one more then another, and yet the thing for which hee is re<g ref="char:EOLunhyphen"/>ſpected doth not deſerve why he ſhould bee ſo reſpected, and according to the Argument it is all one, as if a Judge ſhould ſave ſome Malefactor, becauſe he is rich, ſtrong, wiſe, beauti<g ref="char:EOLhyphen"/>full, or becauſe neere of kindred, whereas hee will condemne another, becauſe hee is a ſtranger, or evill favoured, poore, foo<g ref="char:EOLhyphen"/>liſh or weake which were partiality.</p>
+               <p>And on the other ſide, and if any will affirme that what ſome doe of themſelves, by their own power in point of beleeving, Sanctification, obedience, and perſeverance, put a worth and ex<g ref="char:EOLhyphen"/>cellency upon their perſons above others, to cauſe God to chuſe them, the abſurdities will bee more horrible; which what they will be I leave to you to conceive and judge of.</p>
+               <p>In the next place, you ſay you come to anſwer ſome of my Scriptures, that I bring to prove particular Election, and firſt you begin with my ſaying, that they which are in time ſa<g ref="char:EOLhyphen"/>ved were formerly appointed ſo to bee: you ſay it is a very truth, but nothing at all for particular Election: and why doth it not? you ſay; it proves yours to bee a truth alſo; for all that are or ſhall bee ſaved were formerly appointed ſo to bee; but who be they? not any perſon abſtract from Faith Sanctification, or obedience to the Goſpell as you ſay I muſt prove, if I will prove particular Election.</p>
+               <p>To which I anſwer, I doe obſerve in your anſwer ſubtilty, weakneſſe and error, and firſt for Subtilty it is obſervable, that you ſay, who are they that are or ſhall be ſaved, and then you anſwer not any perſon abſtract from Faith, Sanctifie, <hi>&amp;c.</hi> and herein you doe ſubtilly turne the queſtion from Election to Salvation, thereby inſinuating as if wee ſhould ſay, that ſome perſons abſtract from Faith, Sanctification, and ſhould be ſaved, whereas the proper queſtion is who be they that are elected: or more properly whether men beleeve before they be elected, wee know grant and agree, that all that are ſaved doe beleeve, and are ſanctified before they are ſaved: but moſt properly is the queſtion whether Faith, Sanctity, and obedience be the cauſe of Election, this doe I abſolutely deny.</p>
+               <p>Secondly, I doe accuſe you of weakneſſe, becauſe you doe not anſwer to the ſecond part of the reaſon at all, which if
+<pb facs="tcp:32802:8" rendition="simple:additions"/>
+you had I conceive you would have found it to ſtrong for you, and therefore it is meere weakneſſe to ſhun the ſtrength of an Argument: to prove this I expreſſe the former Argument by me framed, and it was this.</p>
+               <p>That which God doth in time, he did appoint or decree to doe before time; but he doth cauſe ſome to beleeve in Chriſt, and not others; <hi>Ergo</hi> he did ſo decree before.</p>
+               <p>This you ſay proves not particular Election, and doth it not indeed? I would put you in mind that it doth; for it ſheweth that God doth in time cauſe ſome to beleeve, and not others: <hi>Ergo,</hi> he did elect their perſons, and appoint and decree them to beleeve in Chriſt before.</p>
+               <p>Now to prove this, I ſhewed that the ſole cauſe of the diffe<g ref="char:EOLhyphen"/>rence proceeded from the Lord, why one beleeved and not an<g ref="char:EOLhyphen"/>other by theſe Scriptures, <hi>Mat.</hi> 13.11. Where <hi>Chriſt</hi> ſaith, <hi>To you it is given to know the Secrets of the Kingdome of Heaven,</hi> but to others it is not given, <hi>Phil.</hi> 1.29. <hi>To you it given for Chriſt, not onely to beleeve in him but alſo to ſuffer for his ſake. Phil.</hi> 2.13. <hi>for it is God which worketh in you both the will and the deed.</hi>
+               </p>
+               <p>The Concluſion then is this, if God work Faith in ſome in time, and not in others, then hee did appoint ſo to doe before, and conſequently did elect them and not others; the former is by me proved, and not by you diſproved nor denyed, for you make no anſwer thereunto, whether God God cauſeth ſome to be<g ref="char:EOLhyphen"/>leeve above others or no, this you ſpeake nothing to at all: and the other you grant to be a truth, namely what hee doth in time he decreed to doe before; <hi>Ergo,</hi> he did elect and appoint ſome to beleeve and not others.</p>
+               <p>And thus you may behold your ſelfe to deale very weakly, and the ſtrength to prevaile againſt you, deale therefore more ſtrongly next time and more punctually, or elſe yeeld to the truth.</p>
+               <p>Thirdly, I doe accuſe you of errour in the ſequell of your diſ<g ref="char:EOLhyphen"/>courſe, in that you make a reſpective Decree of Election in refe<g ref="char:EOLhyphen"/>rence, unto what man will doe in point of beleeving, Sanctifica<g ref="char:EOLhyphen"/>tion, obedience and perſeverance; which if it bee ſo then man is the cauſe of his Election and adoption, and then ſuch a per<g ref="char:EOLhyphen"/>ſon may rejoyce in what he hath done in cauſing himſelfe to be elected and adopted, but againſt this I doe ſet the manifeſt
+<pb facs="tcp:32802:9"/>
+words of Scripture 1 <hi>Cor.</hi> 4.7. who is it that hath ſeparated thee, or cauſed thee to differ from another man? you ſay a mans ſelfe by his voluntary beleeving, and practiſing the duties of Sanctification, obedience and perſeverance, but againſt this the text is conſiderable: what haſt thou that thou haſt not re<g ref="char:EOLhyphen"/>ceived? if you will now ſay that the Goſpell is Gods gift but the ability to beleeue obey and preſevrere is in man or elſe God ſhould be Vnjuſt to condemne us for not doing that with we have no Power to doe; here would I have you to hold to the Text, that either you have not this Power as you are men ſimply, or if you have, then another man hath it as well as you, then doth <hi>Paul</hi> aske the queſtion ſtill, who hath ſeparated or cauſed thee to differ from another man? if you ſay you uſed the ability or power which you had aright, which if another had done as I have, he had ſped as well as I: then this will follow that you have ſeparated or cauſed your ſelfe to differ from another man, by a right uſe of the power you had in your ſelfe above another, and have not received it and may glory as if you had not recei<g ref="char:EOLhyphen"/>ved it, but fie upon this filthy error which doth ſo ſet up man, and take from God contrary to the mind of <hi>Paul</hi> in this place; and alſo in the 1 <hi>Cor.</hi> 1.27, 28, 29. Where it is ſaid that God ele<g ref="char:EOLhyphen"/>cteth fooliſh weak vile deſpiſed things, and things that are not: one end is to bring to naught things that are, another end is that no Fleſh ſhould glory in his preſence, in <hi>Epheſ.</hi> 1.4.5, 6. compa<g ref="char:EOLhyphen"/>red with <hi>chap.</hi> 2, 1, 2, 3, 4, 5, 6 7, 8, 9, 10, 11, 12, 13. Wee may ſee that he choſeth thoſe that were dead in ſins, Children of wrath, Gentiles, uncircumciſion, ſuch as were without Chriſt, ſtrangers from the Common-wealth of <hi>Iſrael,</hi> aliens from the Covenants of <hi>Promiſe,</hi> ſuch as had neither Faith nor Hope, but were a farre off without God in the World; yea even at this time when they were dead by ſinnes, <hi>ver.</hi> 5. then did God ſet his great love upon them (<hi>ver.</hi> 4.) to chuſe them (<hi>Chap.</hi> 4.) that he might worke Faith and Holineſſe in them (<hi>Chap.</hi> 2.8.10.) that thereby he might ſet forth his rich Grace and kindneſſe, and praiſe. (<hi>ver.</hi> 7 <hi>Chap.</hi> 1.6.) and that he might take from man all occaſion of arrogating to himſelfe any boaſting at all (<hi>Chap.</hi> 2.8, 9.) thus I conceive I have replied ſufficiently to your anſwer, and would put you in mind that there were two reaſons more, which you have not ſpoken too at all: and it is much that you
+<pb facs="tcp:32802:9"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> three Reaſons, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> two of them: <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you have anſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>red the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to my purpoſe, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpoken to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to prove the thing in a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>That <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>Now the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> why God ſends the Goſpel <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be preached which is the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Faith, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> plen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſly, in the pla<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> then <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of his El<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t and cho<g ref="char:EOLhyphen"/>ſen ones in th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> place <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Act.</hi> 18.6.9<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11. comp<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with the 16.7, 8, 9, 10. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Election is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cauſe of Faith.</p>
+               <p>
+                  <hi>Eternall life is the gift of God Rom</hi> 6.22. therefore all the cauſes concurring to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bee the gift of God a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo;</p>
+               <p>But ſome perſons onely are <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as thoſe in whom onely <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Faith is a cauſe concurring to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>go</hi> Election <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cauſe and Faith as its proper effect, it's the gift of God.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth an anſwer to Letter which was <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. In which anſwer is ſhewed how that the ſome and originall ſinne, and corruption of nature is derived by the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ration from Adam.</head>
+               <p>LOving friend according to you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have ad<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſed my ſelfe to you in theſe few following <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peruſall.</p>
+               <p>You ſay wee have beene in diſpute about the ſoules comming from God, you ſay, I deny it. I conceive you are miſtaken, for I only ſay the ſoule doth not come from God immediately with out the meanes of the parents, for by th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meanes of the Parents hold the ſoule to come from God and the body alſo</p>
+               <p>You ſay it is impoſſible for the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of one <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> other, becauſe the Spirit is the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>To which I anſwer, ſeparate the Spirit of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from the fleſh in the act of generation, and what g<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> there bee <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſoule <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> body, wh<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s on the other ſide if you conjoyn <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> together in the ge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhould hinder, but that there ſhould be the ſame conjunction <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neration <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thing gende<g ref="char:EOLhyphen"/>red, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing to the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> command of God
+<pb facs="tcp:32802:10"/>
+to every creature gendering, that they ſhould goe forth &amp; multiply according to their kind, not a part but the whole of their kind, ſuch as they themſelves are; you alledge <hi>Zach.</hi> 12.1. which ſaith God formeth the Spirit of a man, and ſo he doth the body too, <hi>Iob.</hi> 31.15. and the body of the corne alſo, 1 <hi>Cor.</hi> 15.36, 37, 38. But this hindereth not, but that he uſeth the meanes which hee hath appointed in nature, for the effecting of theſe formes, for it is plaine that they are all naturall formes, and eſſentiall to the nature of the creature formed, ſo man, ſoule and body both parts are eſſentiall to his nature, and effected by meanes of man, whoſe nature it is you alledge, <hi>Pſal</hi> 33.15. Hee faſhioneth their hearts every one of them; which is to bee underſtood of Providence whereby he ordereth their hearts in their ſeverall operations, and affections and nothing pertinent to creation or infuſion of ſoules.</p>
+               <p>As for <hi>Heb.</hi> 12.9. I ſhewed that the Apoſtle cals God the Fa<g ref="char:EOLhyphen"/>ther of Spirits in reſpect of his abſolute authority over them, ſecondly in communicating grace and goodneſſe to them, you ſay you can ſee no reaſon to take it ſo, and why you ſay he oppoſeth the ſoule to the body, this I grant, but whereas you ſay he oppo<g ref="char:EOLhyphen"/>ſeth the fountaine of the one to the fountaine of the other; that remaines yet for you to prove, that hee oppoſeth the fatherhood of the one, to the fatherhood of the other, cannot be denied, but that by fatherhood ſhould be meant fountaine, cannot be clearly concluded in reſpect of the eſſence, of ſoule and body, unleſſe you meane by fountaine, author of the ſpirituall life of grace, and ſal<g ref="char:EOLhyphen"/>vation, communicated to the ſoule by the Goſpell of God, as <hi>Iam.</hi> 1.18. 1 <hi>Pet.</hi> 1.23. for to ſpeak as the thing is it's Grace com<g ref="char:EOLhyphen"/>municated which gives the ſoule its true being, for before the ſoule is dead in treſpaſſes, but grace makes it alive, and God by communicating the ſame grace by which the ſoule lives, is cal'd the Father of Spirits, or ſpirituall Father oppoſed to our naturall Father, of whom wee are carnally begotten, and borne, and the Apoſtle would have the beleeving <hi>Hebrewes</hi> to ſubmit them<g ref="char:EOLhyphen"/>ſelves unto his chaſticements, who as he is the Author of our ſpi<g ref="char:EOLhyphen"/>ritual life, ſo is he the preſerver of the ſame ſpirituall life, &amp; uſeth the ſame for their profit and life, as he doth expreſſe himſelfe, and therefore ſeeing you have ſubmitted your ſelves to your na<g ref="char:EOLhyphen"/>turall Father, much more ſhould you ſubmit your ſelves to this ſpirituall Father for your profit, and ſpirituall benefit, that you might be partakers of his holineſſe.</p>
+               <p>
+                  <pb facs="tcp:32802:10"/>You ſay if the ſoule comes by generation, then there muſt be a conjun<g ref="char:EOLhyphen"/>ction of Spirits at the ſame time as is of bodies, and this you deny, <hi>Ergo.</hi>
+               </p>
+               <p>To this I anſwer, that bodies of mankind abſtracted from their ſpirits have no conjunction.</p>
+               <p>you ſay if ſoules of Parents begets the ſoules of the children, then a learned man muſt beget a learned child, and a gracious man a gracious child as well as a ſinfull man a ſinfull child, ſeeing learning grace and ſin are all accidents, having a being in the man, not being with the man, for a man ſay you may be a perfect man as <hi>Adam</hi> was without them.</p>
+               <p>Firſt I deny the conſequence which is, if a ſoule begets a ſoule, then a learned man muſt beget a learned child, and ſo of grace as well as of ſin: beca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe if the ſoule doe beget a ſoule it is to bee ſuppoſed that it begets ſuch a ſoule in likenes as it was in natures being: and not ſuch a one as it was by art or gift, but learning is artificiall and grace is of gift: but ſin is naturall, for it is the corruption of nature, and did enter in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the world by one man over all men, <hi>Rom.</hi> 5.12. and therefore wee are by nature the children of wrath, <hi>Epheſ.</hi> 2.3. and not by accident.</p>
+               <p>Secondly I anſwer to the antecedent that the ſoule doth not beget the ſoule, but the perſon ſoule and body doth beget the perſon ſoule and body; and ſuch as is the perſon begetting in his nature, ſuch is the per<g ref="char:EOLhyphen"/>ſon begotten.</p>
+               <p>And whereas you ſay all perſons are free from ſin till they commit acti<g ref="char:EOLhyphen"/>ons of ſinne, and thereby onely doe become in bondage to it to which you alledge, <hi>Ioh.</hi> 8. which place doth more directly ſhew the perſon that is in bondage, than the thing which brings him into bondage, as if he ſhould ſay hee that committeth ſinne, doth plainely declare him<g ref="char:EOLhyphen"/>ſelfe ſerviceable and ſubject thereunto, <hi>Romans</hi> 6.12. and whereas you ſay a preſent bondage preſuppoſeth a former freedom, this is not deny<g ref="char:EOLhyphen"/>ed, ſo as you have reſpect to <hi>Adam</hi> who was created good, and ſo free from ſin, till he fell from that ſtate into ſin, into which he brought all his poſterity together with himſelfe, <hi>Rom.</hi> 5.12. otherwayes there are many of the ſonnes of <hi>Adam,</hi> which ſhould need no redemption by <hi>Chriſt,</hi> if they be free from ſinne in themſelves, and beſides as it over<g ref="char:EOLhyphen"/>throwes <hi>Chriſts</hi> dying for all: ſo I ſee not why they ſhould not continue free by a carefull uſe of their power they have in nature, even in keeping the <hi>Law,</hi> and ſo conſequently be ſaved thereby which is the opinion of divers, and then ſhould <hi>Chriſt</hi> die in vaine and to no purpoſe at all, <hi>Gal.</hi> 2.21. and by the ſame reaſon one may, all may, nay if there had been a <hi>Law</hi> which could have given life, ſurely r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghteouſnes ſhould have beene by that <hi>Law, Gal.</hi> 22. but the <hi>Scripture</hi> hath concluded all de<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r ſin, therefore ſince the fill of <hi>Adam</hi> free from ſinne no otherwiſe
+<pb facs="tcp:32802:11"/>
+then by <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> faith in Chriſt, and ſo I <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> queſtions.</p>
+               <p>That all m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n have as much benefit <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, without <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Adam</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and death <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as all die in <hi>Adam</hi> 1 <hi>Cor.</hi> 15.21, 22.</p>
+               <p>To which I ſay all have not to much benefit <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſts reſurrection <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their actuall Faith, as they have <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> death by <hi>Adams</hi> ſin or death without actuall ſinne, becauſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have naturall union with <hi>Adam:</hi> without their actuall ſinne, but none have ſpirituall union with Chriſt without actuall Faith (or I had ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ſay perſonall Faith, becauſe I conceive faith may bee potentiall as well as actuall) as for the Scripture, 1 <hi>Cor.</hi> 15.21, 22. by which you back your queſtion. I con<g ref="char:EOLhyphen"/>ceive it is by you miſtaken very much, becauſe you gather from thence that all men have benefit by Chriſts reſurrection without their perſo<g ref="char:EOLhyphen"/>nall faith: which I conceive is not the mind of <hi>Paul,</hi> but onely to ſhew that Chriſt was the head or firſt fruits, whoſe reſurrection is both the beginning, and alſo a ſure pledg of the reſurrection of his body or whole lump that have being in him by faith, ver. 18. and have his ſpirit in them, <hi>Rom</hi> 8.10.11. Chriſt by his Spirit quickens their mortall bodie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the certainty whereof makes them debters to live after the ſpirit, ver. 12</p>
+               <p>And Chriſt in foure ſeverall places in <hi>Ioh.</hi> 6. ſpeaks of this matter as of a ſpeciall benefit belonging to the faithfull, 1 in ver. 39. 2d. in v. 40. 3d. in ver. 44. 4d. in ver. 54.</p>
+               <p>It is true the wicked alſo ſhall riſe but not as a benefit from Chriſts re<g ref="char:EOLhyphen"/>ſurrection, in, or unto which they have no relation but by an effect of his glorious power to their utter confuſion and condemnation <hi>Ioh.</hi> 5.19</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt</note>And whereas you aske how Chriſt reſtores all things from the bon<g ref="char:EOLhyphen"/>dage of corruption, I conceive by a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l things you will underſtand a limi<g ref="char:EOLhyphen"/>tation in relation to the univerſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ.</note> or elſe I will ask you whether wicked perſons be not things, and whether thoſe things bee reſtored from the bondage of corruption by Chriſt, &amp; therefor by all things muſt be meant a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l the faithfull, and all things in relation to them for their happineſſe.</p>
+               <p>Your laſt qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n is whether Chriſt the righteous Jud<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wil judge by the law given to <hi>Adam</hi> before the f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or by the Goſpel af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, or by both by both,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</note> 
+                  <hi>for the law given to Adam</hi> before he ſinned, is it which he ſinned againſt, &amp; thereof it comes that man hath need of a Goſpell or glad t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dings of grace and mercy which grace and mercy if it bee received it delivers from the curſe of the Law, if it bee not received hee lies under the curſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Law ſtill, and under the refuſall grace alſo according a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the meanes of making <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owne this grace hath been aforded.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32802:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
